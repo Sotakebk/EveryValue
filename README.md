@@ -1,7 +1,7 @@
 # For each value of a numeric type
 ~~What are you even doing, why would you need this?~~ Understandably, you can loop over every possible float/int/ulong whatever:
 
-    foreach (int f in Every.Float)
+    foreach (float f in Every.Float)
     {
         if (f == 1)
         {
